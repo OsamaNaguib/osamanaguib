@@ -14,6 +14,7 @@ Hi there! I'm a senior leader with over 2 decades of experience helping business
 
 ### Connect with me
 
--   **LinkedIn:** [linkedin.com/in/osamanaguib](https://www.linkedin.com/in/osamanaguib/)
+-   **LinkedIn:** [linkedin.com/in/osama-naguib](https://www.linkedin.com/in/osama-naguib/)
+-   **Github:** [github.com/osamanaguib](https://www.github.com//osamanaguib/)
 -   **Email:** osbazoka@gmail.com
 -   **Email:** osama_naguib@hotmail.com
